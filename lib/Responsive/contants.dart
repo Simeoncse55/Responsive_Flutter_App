@@ -6,6 +6,7 @@ var myDefaultBg = Colors.deepPurple;
 
 // APP BAR
 var myAppBar = AppBar(
+
   backgroundColor: Colors.black38,
   centerTitle: true,
   title: Text('Heading for App' , style: TextStyle(color: Colors.white),),
